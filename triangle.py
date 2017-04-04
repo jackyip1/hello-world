@@ -1,5 +1,6 @@
 import turtle
 
+# new line 2
 painter = turtle.Turtle()
 
 for _ in range(3):
